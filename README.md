@@ -1,5 +1,14 @@
 # Linear Algebra · 线性代数
 
+## 使用方法：下载 → 解压 → 导入 Obsidian 仓库
+
+1. **[下载打包好的 ZIP 仓库](https://github.com/ljl510824/linear-algebra/releases/latest/download/linear-algebra-obsidian-v1.0.0.zip)**，或进入 [Releases](https://github.com/ljl510824/linear-algebra/releases/latest)，在 **Assets** 中下载 `linear-algebra-obsidian-v1.0.0.zip`。
+2. **解压 ZIP**，得到 `linear-algebra` 文件夹。
+3. 打开 Obsidian，在仓库管理界面选择 **“打开文件夹作为仓库” → “打开”**，选中解压后的 `linear-algebra` 文件夹（里面包含 `.obsidian` 和 `00 线性代数总览.md`）。
+4. 打开 **`00 线性代数总览`** 开始阅读；通过书签进入分章目录、知识图谱或 3B1B 几何直觉笔记。
+
+> ZIP 已包含全部笔记、图片、GIF 和图谱配置，解压即可使用，无需额外安装社区插件。请先在电脑上安装 [Obsidian](https://obsidian.md/download)。
+
 一套重视基础、证明与几何直觉的中文 **Obsidian 线性代数笔记**。从手写课程讲义整理为 Markdown，在五章课程的基础上补充性质与结论的证明、章末术语表、实际应用，以及结合 **3Blue1Brown《线性代数的本质》** 官方配套课程编写的直觉笔记与原创数学图。
 
 **5 章课程 · 29 个正文小节 · 29 篇配套证明 · 134 道章后习题 · 16 篇 3B1B 直觉笔记**
@@ -114,7 +123,7 @@
 
 ## 在 Obsidian 中阅读
 
-1. 点击 **Code → Download ZIP** 下载并解压，或使用 Git 克隆仓库。
+1. 优先[下载 Release 中打包好的 ZIP 仓库](https://github.com/ljl510824/linear-algebra/releases/latest/download/linear-algebra-obsidian-v1.0.0.zip)并解压；也可以使用 Git 克隆仓库。
 2. 在 Obsidian 中选择“打开文件夹作为仓库”，选择包含本 README 和 `.obsidian` 的文件夹。
 3. 从 `00 线性代数总览` 开始；在书签面板选择全书主线、分章图谱或“3B1B · 几何直觉”。
 
