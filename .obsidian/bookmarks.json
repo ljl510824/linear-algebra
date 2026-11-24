@@ -1,0 +1,842 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1794071203106,
+      "title": "线性代数 · 知识图谱",
+      "items": [
+        {
+          "type": "graph",
+          "ctime": 1794071203107,
+          "title": "全书主线（推荐）",
+          "options": {
+            "collapse-filter": false,
+            "search": "tag:#线性代数/正文 OR path:\"06 概念与应用/\"",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": true,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [
+              {
+                "query": "path:\"01 行列式/\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 6797302
+                }
+              },
+              {
+                "query": "path:\"02 矩阵及运算/\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 16628340
+                }
+              },
+              {
+                "query": "path:\"03 初等变换与线性方程组/\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 8117429
+                }
+              },
+              {
+                "query": "path:\"04 向量组与线性相关性/\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 12886261
+                }
+              },
+              {
+                "query": "path:\"05 相似矩阵与二次型/\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 15895976
+                }
+              },
+              {
+                "query": "file:/^概念 /",
+                "color": {
+                  "a": 1,
+                  "rgb": 16111470
+                }
+              },
+              {
+                "query": "file:/^应用 /",
+                "color": {
+                  "a": 1,
+                  "rgb": 9100520
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": 0.2,
+            "nodeSizeMultiplier": 0.95,
+            "lineSizeMultiplier": 0.45,
+            "collapse-forces": true,
+            "centerStrength": 0.55,
+            "repelStrength": 10,
+            "linkStrength": 0.65,
+            "linkDistance": 220,
+            "scale": 1.05,
+            "close": true
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1794071203107,
+          "title": "基础概念与实际应用",
+          "options": {
+            "collapse-filter": false,
+            "search": "path:\"06 概念与应用/\"",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": true,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [
+              {
+                "query": "path:\"01 行列式/\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 6797302
+                }
+              },
+              {
+                "query": "path:\"02 矩阵及运算/\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 16628340
+                }
+              },
+              {
+                "query": "path:\"03 初等变换与线性方程组/\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 8117429
+                }
+              },
+              {
+                "query": "path:\"04 向量组与线性相关性/\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 12886261
+                }
+              },
+              {
+                "query": "path:\"05 相似矩阵与二次型/\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 15895976
+                }
+              },
+              {
+                "query": "file:/^概念 /",
+                "color": {
+                  "a": 1,
+                  "rgb": 16111470
+                }
+              },
+              {
+                "query": "file:/^应用 /",
+                "color": {
+                  "a": 1,
+                  "rgb": 9100520
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": 0.1,
+            "nodeSizeMultiplier": 0.95,
+            "lineSizeMultiplier": 0.45,
+            "collapse-forces": true,
+            "centerStrength": 0.5,
+            "repelStrength": 8,
+            "linkStrength": 0.65,
+            "linkDistance": 240,
+            "scale": 1.6,
+            "close": true
+          }
+        },
+        {
+          "type": "group",
+          "ctime": 1794071203107,
+          "title": "按章深入（含证明与习题）",
+          "items": [
+            {
+              "type": "graph",
+              "ctime": 1794071203107,
+              "title": "第一章 · 行列式",
+              "options": {
+                "collapse-filter": false,
+                "search": "path:\"01 行列式/\"",
+                "showTags": false,
+                "showAttachments": false,
+                "hideUnresolved": true,
+                "showOrphans": true,
+                "collapse-color-groups": true,
+                "colorGroups": [
+                  {
+                    "query": "tag:#线性代数/证明",
+                    "color": {
+                      "a": 1,
+                      "rgb": 9741240
+                    }
+                  },
+                  {
+                    "query": "tag:#线性代数/章末定义",
+                    "color": {
+                      "a": 1,
+                      "rgb": 16111470
+                    }
+                  },
+                  {
+                    "query": "tag:#线性代数/习题",
+                    "color": {
+                      "a": 1,
+                      "rgb": 9100520
+                    }
+                  },
+                  {
+                    "query": "path:\"01 行列式/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 6797302
+                    }
+                  },
+                  {
+                    "query": "path:\"02 矩阵及运算/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 16628340
+                    }
+                  },
+                  {
+                    "query": "path:\"03 初等变换与线性方程组/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 8117429
+                    }
+                  },
+                  {
+                    "query": "path:\"04 向量组与线性相关性/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 12886261
+                    }
+                  },
+                  {
+                    "query": "path:\"05 相似矩阵与二次型/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 15895976
+                    }
+                  },
+                  {
+                    "query": "file:/^概念 /",
+                    "color": {
+                      "a": 1,
+                      "rgb": 16111470
+                    }
+                  },
+                  {
+                    "query": "file:/^应用 /",
+                    "color": {
+                      "a": 1,
+                      "rgb": 9100520
+                    }
+                  }
+                ],
+                "collapse-display": true,
+                "showArrow": false,
+                "textFadeMultiplier": 0.1,
+                "nodeSizeMultiplier": 0.95,
+                "lineSizeMultiplier": 0.45,
+                "collapse-forces": true,
+                "centerStrength": 0.5,
+                "repelStrength": 8,
+                "linkStrength": 0.65,
+                "linkDistance": 230,
+                "scale": 1.7,
+                "close": true
+              }
+            },
+            {
+              "type": "graph",
+              "ctime": 1794071203107,
+              "title": "第二章 · 矩阵及运算",
+              "options": {
+                "collapse-filter": false,
+                "search": "path:\"02 矩阵及运算/\"",
+                "showTags": false,
+                "showAttachments": false,
+                "hideUnresolved": true,
+                "showOrphans": true,
+                "collapse-color-groups": true,
+                "colorGroups": [
+                  {
+                    "query": "tag:#线性代数/证明",
+                    "color": {
+                      "a": 1,
+                      "rgb": 9741240
+                    }
+                  },
+                  {
+                    "query": "tag:#线性代数/章末定义",
+                    "color": {
+                      "a": 1,
+                      "rgb": 16111470
+                    }
+                  },
+                  {
+                    "query": "tag:#线性代数/习题",
+                    "color": {
+                      "a": 1,
+                      "rgb": 9100520
+                    }
+                  },
+                  {
+                    "query": "path:\"01 行列式/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 6797302
+                    }
+                  },
+                  {
+                    "query": "path:\"02 矩阵及运算/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 16628340
+                    }
+                  },
+                  {
+                    "query": "path:\"03 初等变换与线性方程组/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 8117429
+                    }
+                  },
+                  {
+                    "query": "path:\"04 向量组与线性相关性/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 12886261
+                    }
+                  },
+                  {
+                    "query": "path:\"05 相似矩阵与二次型/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 15895976
+                    }
+                  },
+                  {
+                    "query": "file:/^概念 /",
+                    "color": {
+                      "a": 1,
+                      "rgb": 16111470
+                    }
+                  },
+                  {
+                    "query": "file:/^应用 /",
+                    "color": {
+                      "a": 1,
+                      "rgb": 9100520
+                    }
+                  }
+                ],
+                "collapse-display": true,
+                "showArrow": false,
+                "textFadeMultiplier": 0.1,
+                "nodeSizeMultiplier": 0.95,
+                "lineSizeMultiplier": 0.45,
+                "collapse-forces": true,
+                "centerStrength": 0.5,
+                "repelStrength": 8,
+                "linkStrength": 0.65,
+                "linkDistance": 230,
+                "scale": 1.8,
+                "close": true
+              }
+            },
+            {
+              "type": "graph",
+              "ctime": 1794071203107,
+              "title": "第三章 · 初等变换与方程组",
+              "options": {
+                "collapse-filter": false,
+                "search": "path:\"03 初等变换与线性方程组/\"",
+                "showTags": false,
+                "showAttachments": false,
+                "hideUnresolved": true,
+                "showOrphans": true,
+                "collapse-color-groups": true,
+                "colorGroups": [
+                  {
+                    "query": "tag:#线性代数/证明",
+                    "color": {
+                      "a": 1,
+                      "rgb": 9741240
+                    }
+                  },
+                  {
+                    "query": "tag:#线性代数/章末定义",
+                    "color": {
+                      "a": 1,
+                      "rgb": 16111470
+                    }
+                  },
+                  {
+                    "query": "tag:#线性代数/习题",
+                    "color": {
+                      "a": 1,
+                      "rgb": 9100520
+                    }
+                  },
+                  {
+                    "query": "path:\"01 行列式/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 6797302
+                    }
+                  },
+                  {
+                    "query": "path:\"02 矩阵及运算/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 16628340
+                    }
+                  },
+                  {
+                    "query": "path:\"03 初等变换与线性方程组/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 8117429
+                    }
+                  },
+                  {
+                    "query": "path:\"04 向量组与线性相关性/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 12886261
+                    }
+                  },
+                  {
+                    "query": "path:\"05 相似矩阵与二次型/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 15895976
+                    }
+                  },
+                  {
+                    "query": "file:/^概念 /",
+                    "color": {
+                      "a": 1,
+                      "rgb": 16111470
+                    }
+                  },
+                  {
+                    "query": "file:/^应用 /",
+                    "color": {
+                      "a": 1,
+                      "rgb": 9100520
+                    }
+                  }
+                ],
+                "collapse-display": true,
+                "showArrow": false,
+                "textFadeMultiplier": 0.1,
+                "nodeSizeMultiplier": 0.95,
+                "lineSizeMultiplier": 0.45,
+                "collapse-forces": true,
+                "centerStrength": 0.5,
+                "repelStrength": 8,
+                "linkStrength": 0.65,
+                "linkDistance": 230,
+                "scale": 2.1,
+                "close": true
+              }
+            },
+            {
+              "type": "graph",
+              "ctime": 1794071203107,
+              "title": "第四章 · 向量组与线性相关性",
+              "options": {
+                "collapse-filter": false,
+                "search": "path:\"04 向量组与线性相关性/\"",
+                "showTags": false,
+                "showAttachments": false,
+                "hideUnresolved": true,
+                "showOrphans": true,
+                "collapse-color-groups": true,
+                "colorGroups": [
+                  {
+                    "query": "tag:#线性代数/证明",
+                    "color": {
+                      "a": 1,
+                      "rgb": 9741240
+                    }
+                  },
+                  {
+                    "query": "tag:#线性代数/章末定义",
+                    "color": {
+                      "a": 1,
+                      "rgb": 16111470
+                    }
+                  },
+                  {
+                    "query": "tag:#线性代数/习题",
+                    "color": {
+                      "a": 1,
+                      "rgb": 9100520
+                    }
+                  },
+                  {
+                    "query": "path:\"01 行列式/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 6797302
+                    }
+                  },
+                  {
+                    "query": "path:\"02 矩阵及运算/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 16628340
+                    }
+                  },
+                  {
+                    "query": "path:\"03 初等变换与线性方程组/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 8117429
+                    }
+                  },
+                  {
+                    "query": "path:\"04 向量组与线性相关性/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 12886261
+                    }
+                  },
+                  {
+                    "query": "path:\"05 相似矩阵与二次型/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 15895976
+                    }
+                  },
+                  {
+                    "query": "file:/^概念 /",
+                    "color": {
+                      "a": 1,
+                      "rgb": 16111470
+                    }
+                  },
+                  {
+                    "query": "file:/^应用 /",
+                    "color": {
+                      "a": 1,
+                      "rgb": 9100520
+                    }
+                  }
+                ],
+                "collapse-display": true,
+                "showArrow": false,
+                "textFadeMultiplier": 0.1,
+                "nodeSizeMultiplier": 0.95,
+                "lineSizeMultiplier": 0.45,
+                "collapse-forces": true,
+                "centerStrength": 0.5,
+                "repelStrength": 8,
+                "linkStrength": 0.65,
+                "linkDistance": 230,
+                "scale": 1.8,
+                "close": true
+              }
+            },
+            {
+              "type": "graph",
+              "ctime": 1794071203107,
+              "title": "第五章 · 相似矩阵与二次型",
+              "options": {
+                "collapse-filter": false,
+                "search": "path:\"05 相似矩阵与二次型/\"",
+                "showTags": false,
+                "showAttachments": false,
+                "hideUnresolved": true,
+                "showOrphans": true,
+                "collapse-color-groups": true,
+                "colorGroups": [
+                  {
+                    "query": "tag:#线性代数/证明",
+                    "color": {
+                      "a": 1,
+                      "rgb": 9741240
+                    }
+                  },
+                  {
+                    "query": "tag:#线性代数/章末定义",
+                    "color": {
+                      "a": 1,
+                      "rgb": 16111470
+                    }
+                  },
+                  {
+                    "query": "tag:#线性代数/习题",
+                    "color": {
+                      "a": 1,
+                      "rgb": 9100520
+                    }
+                  },
+                  {
+                    "query": "path:\"01 行列式/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 6797302
+                    }
+                  },
+                  {
+                    "query": "path:\"02 矩阵及运算/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 16628340
+                    }
+                  },
+                  {
+                    "query": "path:\"03 初等变换与线性方程组/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 8117429
+                    }
+                  },
+                  {
+                    "query": "path:\"04 向量组与线性相关性/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 12886261
+                    }
+                  },
+                  {
+                    "query": "path:\"05 相似矩阵与二次型/\"",
+                    "color": {
+                      "a": 1,
+                      "rgb": 15895976
+                    }
+                  },
+                  {
+                    "query": "file:/^概念 /",
+                    "color": {
+                      "a": 1,
+                      "rgb": 16111470
+                    }
+                  },
+                  {
+                    "query": "file:/^应用 /",
+                    "color": {
+                      "a": 1,
+                      "rgb": 9100520
+                    }
+                  }
+                ],
+                "collapse-display": true,
+                "showArrow": false,
+                "textFadeMultiplier": 0.1,
+                "nodeSizeMultiplier": 0.95,
+                "lineSizeMultiplier": 0.45,
+                "collapse-forces": true,
+                "centerStrength": 0.5,
+                "repelStrength": 8,
+                "linkStrength": 0.65,
+                "linkDistance": 230,
+                "scale": 1.7,
+                "close": true
+              }
+            }
+          ]
+        },
+        {
+          "type": "graph",
+          "ctime": 1794071008332,
+          "title": "全部笔记（含证明与习题）",
+          "options": {
+            "collapse-filter": false,
+            "search": "",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": true,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [
+              {
+                "query": "tag:#线性代数/证明",
+                "color": {
+                  "a": 1,
+                  "rgb": 9741240
+                }
+              },
+              {
+                "query": "tag:#线性代数/章末定义",
+                "color": {
+                  "a": 1,
+                  "rgb": 16111470
+                }
+              },
+              {
+                "query": "tag:#线性代数/习题",
+                "color": {
+                  "a": 1,
+                  "rgb": 9100520
+                }
+              },
+              {
+                "query": "path:\"01 行列式/\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 6797302
+                }
+              },
+              {
+                "query": "path:\"02 矩阵及运算/\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 16628340
+                }
+              },
+              {
+                "query": "path:\"03 初等变换与线性方程组/\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 8117429
+                }
+              },
+              {
+                "query": "path:\"04 向量组与线性相关性/\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 12886261
+                }
+              },
+              {
+                "query": "path:\"05 相似矩阵与二次型/\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 15895976
+                }
+              },
+              {
+                "query": "file:/^概念 /",
+                "color": {
+                  "a": 1,
+                  "rgb": 16111470
+                }
+              },
+              {
+                "query": "file:/^应用 /",
+                "color": {
+                  "a": 1,
+                  "rgb": 9100520
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": 0.65,
+            "nodeSizeMultiplier": 0.95,
+            "lineSizeMultiplier": 0.35,
+            "collapse-forces": true,
+            "centerStrength": 0.6,
+            "repelStrength": 10,
+            "linkStrength": 0.75,
+            "linkDistance": 210,
+            "scale": 0.85,
+            "close": true
+          }
+        },
+        {
+          "type": "file",
+          "ctime": 1794071203109,
+          "title": "图谱使用说明与颜色图例",
+          "path": "知识图谱使用指南.md"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "ctime": 1794328472373,
+      "title": "3B1B · 几何直觉",
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1794328472374,
+          "title": "16 节导览与五章对应",
+          "path": "07 几何直觉与3B1B/3B1B 线性代数的本质导览.md"
+        },
+        {
+          "type": "graph",
+          "ctime": 1794328472375,
+          "title": "几何直觉关系图（18 个主题）",
+          "options": {
+            "collapse-filter": false,
+            "search": "tag:#线性代数/直觉条目 OR tag:#线性代数/直觉延伸",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": true,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [
+              {
+                "query": "tag:#线性代数/直觉分组/空间动作",
+                "color": {
+                  "a": 1,
+                  "rgb": 6797302
+                }
+              },
+              {
+                "query": "tag:#线性代数/直觉分组/可达与可逆",
+                "color": {
+                  "a": 1,
+                  "rgb": 8117429
+                }
+              },
+              {
+                "query": "tag:#线性代数/直觉分组/测量与体积",
+                "color": {
+                  "a": 1,
+                  "rgb": 16111470
+                }
+              },
+              {
+                "query": "tag:#线性代数/直觉分组/坐标与结构",
+                "color": {
+                  "a": 1,
+                  "rgb": 12886261
+                }
+              },
+              {
+                "query": "tag:#线性代数/直觉延伸",
+                "color": {
+                  "a": 1,
+                  "rgb": 15895976
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": 0.1,
+            "nodeSizeMultiplier": 0.95,
+            "lineSizeMultiplier": 0.5,
+            "collapse-forces": true,
+            "centerStrength": 0.45,
+            "repelStrength": 10,
+            "linkStrength": 0.65,
+            "linkDistance": 260,
+            "scale": 1.1,
+            "close": true
+          }
+        }
+      ]
+    }
+  ]
+}

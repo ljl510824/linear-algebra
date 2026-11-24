@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#线性代数/正文 OR path:\"06 概念与应用/\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"01 行列式/\"",
+      "color": {
+        "a": 1,
+        "rgb": 6797302
+      }
+    },
+    {
+      "query": "path:\"02 矩阵及运算/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16628340
+      }
+    },
+    {
+      "query": "path:\"03 初等变换与线性方程组/\"",
+      "color": {
+        "a": 1,
+        "rgb": 8117429
+      }
+    },
+    {
+      "query": "path:\"04 向量组与线性相关性/\"",
+      "color": {
+        "a": 1,
+        "rgb": 12886261
+      }
+    },
+    {
+      "query": "path:\"05 相似矩阵与二次型/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15895976
+      }
+    },
+    {
+      "query": "file:/^概念 /",
+      "color": {
+        "a": 1,
+        "rgb": 16111470
+      }
+    },
+    {
+      "query": "file:/^应用 /",
+      "color": {
+        "a": 1,
+        "rgb": 9100520
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 0.95,
+  "lineSizeMultiplier": 0.45,
+  "collapse-forces": true,
+  "centerStrength": 0.55,
+  "repelStrength": 10,
+  "linkStrength": 0.65,
+  "linkDistance": 220,
+  "scale": 1.0116903332828417,
+  "close": true
+}
