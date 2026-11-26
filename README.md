@@ -6,7 +6,7 @@
 
 我希望普通高中高一阶段的学生也能掌握其中的逻辑链和推导（只需要最基础的函数和数列知识，以及一点记忆力），因此会尽量从基本功讲起，不默认读者已经学过线性代数。同时，我特别关心这些知识怎样用于现实问题，所以加入了几何直觉与应用方面的补充。
 
-> **当前版本请先了解：** Markdown 主体内容由 AI 根据孔祥仁老师的手写板书 PDF 转写，并加入了 AI 补充内容，**目前尚未开始人工逐项核对**。公式、符号、题面和解释都可能存在转写失真或内容错误；阅读时请结合教材核对。[原始手写板书 PDF](https://github.com/ljl510824/linear-algebra/releases/download/v1.0.0/linear.algebra.pdf) 已发布，供对照阅读；独立证明 PDF 计划后续上传，目前尚未发布。
+> **当前版本请先了解：** Markdown 主体内容由 AI 根据孔祥仁老师的手写板书 PDF 转写，并加入了 AI 补充内容，**目前尚未开始人工逐项核对**。公式、符号、题面和解释都可能存在转写失真或内容错误；阅读时请结合教材核对。[原始手写板书 PDF](https://github.com/ljl510824/linear-algebra/releases/download/v1.0.0/linear-algebra.pdf) 已发布，供对照阅读；独立证明 PDF 计划后续上传，目前尚未发布。
 > 请大家务必保持批判性阅读！
 
 ## 配套网课与致谢
@@ -32,7 +32,7 @@
 
 > 证明和修补还在路上，请保持评判性阅读
 
-**原稿对照：** [下载 linear algebra.pdf](https://github.com/ljl510824/linear-algebra/releases/download/v1.0.0/linear.algebra.pdf)，也可以在 Release 的 **Assets** 中找到该附件。
+**原稿对照：** [下载 linear-algebra.pdf](https://github.com/ljl510824/linear-algebra/releases/download/v1.0.0/linear-algebra.pdf)，也可以在 Release 的 **Assets** 中找到该附件。
 
 这里的“仓库”是 Obsidian 对笔记文件夹的称呼，不需要连接 GitHub 账号。
 
@@ -103,7 +103,7 @@
 我自己目前大约学完了该课程内容的 **80%**，这份笔记也会随学习继续整理。目前的进度是：
 
 - **人工校对：** 尚未开始。仓库中已有的检查记录或“核验”表述，不代表我已完成逐项人工审校。
-- **原始手写板书 PDF：** 已上传到 [v1.0.0 Release](https://github.com/ljl510824/linear-algebra/releases/tag/v1.0.0)，可下载 [linear algebra.pdf](https://github.com/ljl510824/linear-algebra/releases/download/v1.0.0/linear.algebra.pdf) 对照孔祥仁老师的原始板书。
+- **原始手写板书 PDF：** 已上传到 [v1.0.0 Release](https://github.com/ljl510824/linear-algebra/releases/tag/v1.0.0)，可下载 [linear-algebra.pdf](https://github.com/ljl510824/linear-algebra/releases/download/v1.0.0/linear-algebra.pdf) 对照孔祥仁老师的原始板书。
 - **独立证明 PDF：** 计划后续整理上传。仓库目前已有一些证明相关内容，同样尚未经我人工核对。
 
 ## 发现问题怎么办？
